@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Machine Learninf Certificate @ Coursera & Tableau Training: Master Tableau For Data Science @ Udemy
+ 🔭 I’m currently working on Machine Learninf Certificate @ Coursera & Tableau Training: Master Tableau For Data Science @ Udemy
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 - 📫 How to reach me: sekc1@mcmaster.ca
