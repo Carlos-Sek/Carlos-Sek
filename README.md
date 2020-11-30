@@ -1,6 +1,4 @@
 ### Hi there 👋
-
- 🔭 I’m currently working on an Iris Classification Project.
  
  📫 How to reach me: sekc1@mcmaster.ca or LinkedIn (https://www.linkedin.com/in/sekc85/)
  
